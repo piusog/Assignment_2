@@ -1,2 +1,2 @@
 # Assignment_2
-Application of Coding Functions
+Solutions for OOP Python Assignment – Advent 2025
